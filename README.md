@@ -1,4 +1,5 @@
 # Finding-your-cafe
+### Introduction video link: https://www.youtube.com/watch?v=45MeJE07P-U&feature=youtu.be
 
 Finding your cafe is a R shiny application based on a data set named ‘DDOT Sidewalk Cafe Inspections’ downloaded from open data DC. 
 
